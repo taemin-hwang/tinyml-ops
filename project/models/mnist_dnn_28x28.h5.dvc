@@ -1,4 +1,4 @@
 outs:
-- md5: 894bb06870250c370f13db6ec6bba0b9
+- md5: 2734a74d696a8f0ef0e125b96871d5e0
   size: 4910984
   path: mnist_dnn_28x28.h5
